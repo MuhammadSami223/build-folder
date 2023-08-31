@@ -1,16 +1,2 @@
-{
- "routes":[
-        {
-        "src":"/",
-        "des":"/"
-        },
-        {
-        "src":"/test",
-        "des":"/"
-        },
-  {
-  "buildCommand": "next build"
-}
-    ]
-}
+
       
